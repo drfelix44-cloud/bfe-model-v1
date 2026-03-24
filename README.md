@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13735163.svg)](https://doi.org/10.5281/zenodo.13735163)
 # BFE Model v1.0 - Dr. Félix Muñoz Guerrero
 **Bifurcation Energy Framework for Metabolic Collapse Prediction in Burn Patients**
 
