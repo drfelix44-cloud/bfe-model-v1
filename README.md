@@ -21,3 +21,8 @@ El script `bfe_model_v1.py` permite simular escenarios de severidad según el po
 
 ## 📖 Referencia Académica
 Este software es una implementación de las investigaciones del **Dr. Félix Muñoz Guerrero** sobre resiliencia metabólica en unidades de cuidados intensivos de quemados.
+---
+## 📚 Sustento Académico
+Para consultar la base científica de este modelo, vea el artículo original:
+
+**Artículo:** *Índice de Falla Bioenergética Temprana (BFE) 1.0: Modelo Dinámico No Lineal con Comportamiento Determinista Local en el Paciente Quemado Crítico.* **DOI del Artículo:** [10.5281/zenodo.19201736](https://doi.org/10.5281/zenodo.19201736)
